@@ -1,0 +1,18 @@
+📘 Password Game
+
+A browser-based puzzle game inspired by The Password Game, built with HTML, CSS, and JavaScript. The goal is to create a password that satisfies a growing list of rules. Each new rule adds difficulty and often unexpected twists.
+
+✨ Features
+
+Interactive password input with dynamic rule validation
+Rules displayed in real time as you progress
+Clear feedback for each requirement (pass/fail)
+
+🛠️ Tech Stack
+
+Frontend: HTML, CSS, JavaScript
+Deployment: GitHub Pages
+
+📄 License
+
+MIT License
